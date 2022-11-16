@@ -1,0 +1,104 @@
+body{
+    background-image: url(../image/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+    padding: 10px 0 0 10px;
+    float: left;
+}
+
+#header{
+    background-color: purple;
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+    padding: 0 25px 0 0;
+}
+
+#inicio{
+    margin: 30px 0 30px 40px;
+}
+
+#contenedor1{
+    padding: 15px 15px 15px;
+    text-align: justify;
+    width: 48%;
+    height: 720%;
+    background-color: rgba(165, 42, 42, 0.413);
+}
+
+#contenedor2{
+    padding: 15px 15px 15px;
+    width: 48%;
+    height: 580px;
+    background-color: rgba(0, 128, 0, 0.333);
+    margin-top: 20px;
+}
+
+#contenedor3{
+    padding: 150px 20px 153px 20px;
+    text-align: justify;
+    width: 47%;
+    height: 720%;
+    background-color: rgba(42, 9, 120, 0.16);
+    float: right;
+}
+
+#contenedor4{
+    background-color: rgba(0, 0, 255, 0.175);
+    padding: 90px 20px 153px 20px;
+    float: right;
+    width: 47%;
+    height: 367px;
+    margin-top: 20px;
+}
+
+#izquierda{
+    background-color: black;
+    width: 33%;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding: 35px 0 10px 0;
+}
+
+#medio{
+    background-color:black;
+    width: 34%;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding: 35px 0 10px 0;
+}
+
+#derecha{
+    background-color: black;
+    width: 33%;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding: 35px 0 10px 0;
+}
+
+h2{
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    color: aqua;
+}
